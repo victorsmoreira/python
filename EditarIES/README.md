@@ -7,4 +7,4 @@ Esse script tem o objetivo:
 4. inserir o código do produto na chave [LUMCAT] dentro de cada arquivo;
 5. salvar os arquivos nas subpastas corretas
 
-A pasta original não sofre alterações e o código dos produtos é obtido a partir da planilha auxiliar.
+A pasta original não sofre alterações e o código dos produtos é obtido a partir da planilha 'IES_info_a_corrigir.xlsx'.
